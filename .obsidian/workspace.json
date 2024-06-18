@@ -18,62 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "90aa1768aad96259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "0dad4ebf6608e741"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5b2ba55e74fdd92a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63fef275bf407f11",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "0dad4ebf6608e741"
           }
         ]
       }
@@ -219,10 +163,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "63fef275bf407f11",
+  "active": "ab51b1f6a2423705",
   "lastOpenFiles": [
-    "Life Progress.md",
     "Работа/Перенос в компоненты groups.md",
+    "Life Progress.md",
     "2024-06-18.md",
     "Countdown.md",
     "Домашняя страница.md",
