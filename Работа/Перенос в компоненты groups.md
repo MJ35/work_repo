@@ -1,19 +1,19 @@
 #todo
 
-- [x] inst_applications  / Приложения
-	- [x] i18 inst_applications
-- [x] inst_remote_actions / Удалённые действия
+- [ ] inst_applications  / Приложения
+	- [ ] i18 inst_applications
+- [ ] inst_remote_actions / Удалённые действия
 	- [ ] i18 inst_remote_actions
-- [x] inst_remote_collections / Выборки
+- [ ] inst_remote_collections / Выборки
 	- [ ] i18 inst_remote_collections
-- [x] inst_view_configurations / Представления
-	- [x] i18 inst_view_configurations
+- [ ] inst_view_configurations / Представления
+	- [ ] i18 inst_view_configurations
 - [ ] inst_custom_admin_templates / UI шаблоны
 	- [ ] i18 inst_custom_admin_templates
 - [ ] inst_code_libraries / Библиотеки программного кода
 	- [ ] i18 inst_code_libraries
-- [x] inst_web_modes / Типы страниц
-	- [x] i18 inst_web_modes
+- [ ] inst_web_modes / Типы страниц
+	- [ ] i18 inst_web_modes
 - [ ] inst_server_agents / Агенты сервера
 	- [ ] i18 inst_server_agents
 - [ ] inst_statistics / Показатели
@@ -32,7 +32,7 @@
 	- [ ] i18 inst_notifications
 - [ ] inst_notification_templates / Встроенные шаблоны уведомлений
 	- [ ] i18 inst_notification_templates
-- [x] object_types / xmd
-	- [x] wtv_common.xml
+- [ ] object_types / xmd
+	- [ ] wtv_common.xml
 - [ ] inst_pack_object_claim.xml
 	- [ ] i18 inst_pack_object_claim
