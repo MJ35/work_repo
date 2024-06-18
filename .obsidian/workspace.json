@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1609437f02e112a1",
+        "id": "3729ab335cd0753c",
         "type": "tabs",
         "children": [
           {
-            "id": "94027f40538c49fe",
+            "id": "ab51b1f6a2423705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "Работа/Перенос в компоненты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb7d7eacdda5e3de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "111222.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "111222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "111222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Домашняя страница.md"
+                "file": "111222.md"
               }
             }
           },
@@ -163,12 +176,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "94027f40538c49fe",
+  "active": "fb7d7eacdda5e3de",
   "lastOpenFiles": [
-    "new zam.md",
     "Работа/Перенос в компоненты.md",
-    "Без названия",
+    "111222.md",
     "Домашняя страница.md",
+    "Работа/Websoft/Логирование и debug.md",
+    "Без названия 1.md",
+    "Life Progress.md",
+    "new zam.md",
+    "Без названия",
     "Работа/Websoft/Примеры регулярных выражений.md",
     "Работа/Websoft/Регулярные выражения. Шпаргалка.md",
     "Работа/Websoft/Регулярные выражения. Шпага.md",
@@ -191,17 +208,13 @@
     "Отключение треугольника сортировки в таблице XMS.md",
     "Развернуть локальный стенд.md",
     "Словарь терминов и выражений.md",
-    "Life Progress.md",
     "Pasted image 20240531125110.png",
     "Без названия.md",
-    "pages/contents.md",
-    "Работа/Websoft/Логирование и debug.md",
     "logseq/custom.css",
     "pages",
     "journals",
     "logseq/config.edn",
     "logseq",
-    "Автомобиль/Двигатель/Замена ГРМ с роликами, помпы и замена подшипников генератора.md",
     "Работа/Websoft",
     "Книги/Логика",
     "Без названия.canvas",
