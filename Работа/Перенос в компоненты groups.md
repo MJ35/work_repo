@@ -1,16 +1,16 @@
 #todo
 
-- [ ] inst_applications  / Приложения
+- [x] inst_applications  / Приложения
 	- [ ] i18 inst_applications
-- [ ] inst_remote_actions / Удалённые действия
+- [x] inst_remote_actions / Удалённые действия
 	- [ ] i18 inst_remote_actions
-- [ ] inst_remote_collections / Выборки
+- [x] inst_remote_collections / Выборки
 	- [ ] i18 inst_remote_collections
-- [ ] inst_view_configurations / Представления
+- [x] inst_view_configurations / Представления
 	- [ ] i18 inst_view_configurations
-- [ ] inst_custom_admin_templates / UI шаблоны
+- [x] inst_custom_admin_templates / UI шаблоны
 	- [ ] i18 inst_custom_admin_templates
-- [ ] inst_code_libraries / Библиотеки программного кода
+- [x] inst_code_libraries / Библиотеки программного кода
 	- [ ] i18 inst_code_libraries
 - [ ] inst_web_modes / Типы страниц
 	- [ ] i18 inst_web_modes
