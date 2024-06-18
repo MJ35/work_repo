@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Websoft/Логирование и debug.md",
+                "file": "Работа/Перенос в компоненты groups.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Websoft/Логирование и debug.md",
+                "file": "Работа/Перенос в компоненты groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Websoft/Логирование и debug.md",
+                "file": "Работа/Перенос в компоненты groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Websoft/Логирование и debug.md"
+                "file": "Работа/Перенос в компоненты groups.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "fb7d7eacdda5e3de",
   "lastOpenFiles": [
+    "Работа/Websoft/Логирование и debug.md",
     "Работа/Websoft/Примеры регулярных выражений.md",
     "Работа/Websoft/Регулярные выражения. Шпаргалка.md",
-    "Работа/Websoft/Логирование и debug.md",
     "Книги/Логика/Логика А.М.Руденко.md",
     "Книги/Логика/История становления и развития логики.md",
     "Книги/Логика/Значение логики в жизни человека.md",
