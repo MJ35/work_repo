@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "fb7d7eacdda5e3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "90aa1768aad96259",
             "type": "leaf",
             "state": {
@@ -39,12 +27,12 @@
               "state": {
                 "file": "Life Progress.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,11 +178,11 @@
   },
   "active": "90aa1768aad96259",
   "lastOpenFiles": [
-    "Countdown.md",
-    "Life Progress.md",
-    "Домашняя страница.md",
-    "2024-06-18.md",
     "Работа/Перенос в компоненты groups.md",
+    "2024-06-18.md",
+    "Life Progress.md",
+    "Countdown.md",
+    "Домашняя страница.md",
     "Без названия.md",
     "Округление StrRealFixed.md",
     "Отключение треугольника сортировки в таблице XMS.md",
