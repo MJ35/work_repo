@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "Работа/Перенос в компоненты.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "Работа/Перенос в компоненты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "Работа/Перенос в компоненты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Домашняя страница.md"
+                "file": "Работа/Перенос в компоненты.md"
               }
             }
           },
@@ -176,14 +176,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fb7d7eacdda5e3de",
+  "active": "4f4c733d5d9f5285",
   "lastOpenFiles": [
+    "Работа/Websoft/Логирование и debug.md",
+    "Работа/Перенос в компоненты.md",
+    "111222.md",
+    "Домашняя страница.md",
     "Без названия 1.md",
     "Без названия.md",
-    "111222.md",
-    "Работа/Перенос в компоненты.md",
-    "Домашняя страница.md",
-    "Работа/Websoft/Логирование и debug.md",
     "Life Progress.md",
     "new zam.md",
     "Без названия",
