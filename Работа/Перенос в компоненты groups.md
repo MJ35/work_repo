@@ -24,7 +24,7 @@
 	- [ ] i18 inst_web_rules
 - [ ] inst_operations / Операции
 	- [ ] i18 inst_operations
-- [ ] inst_system_event_handlers / Обработчик системных событий
+- [x] inst_system_event_handlers / Обработчик системных событий
 	- [ ] i18 inst_system_event_handlers
 - [ ] inst_system_events / Системные события
 	- [ ] i18 inst_system_events
