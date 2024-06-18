@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
+                "file": "2024-06-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90aa1768aad96259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life Progress.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
+                "file": "Life Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
+                "file": "Life Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md"
+                "file": "Life Progress.md"
               }
             }
           },
@@ -176,20 +188,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fb7d7eacdda5e3de",
+  "active": "90aa1768aad96259",
   "lastOpenFiles": [
-    "Без названия.md",
+    "Countdown.md",
+    "Life Progress.md",
     "Домашняя страница.md",
+    "2024-06-18.md",
+    "Работа/Перенос в компоненты groups.md",
+    "Без названия.md",
     "Округление StrRealFixed.md",
     "Отключение треугольника сортировки в таблице XMS.md",
     "Словарь терминов и выражений.md",
     "Установка пакета или демо-данных.md",
-    "Countdown.md",
-    "Life Progress.md",
     "Pasted image 20240531125110.png",
     "new zam.md",
     "Без названия 1.md",
-    "Работа/Перенос в компоненты groups.md",
     "111222.md",
     "Работа/Websoft/Логирование и debug.md",
     "Работа/Websoft/Примеры регулярных выражений.md",
@@ -205,7 +218,6 @@
     "Словарь терминов и выражений/Схоластика.md",
     "templates/Книга.md",
     "Книги/Без названия арапрапрапр.md",
-    "Книги/Без названия 1.md",
     "templates",
     "Книги/Логика/attachments/Pasted image 20240531200927.png",
     "Книги/Логика/attachments",
