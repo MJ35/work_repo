@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life Progress.md",
-                "mode": "source",
+                "file": "Работа/Перенос в компоненты groups.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life Progress.md",
+                "file": "Работа/Перенос в компоненты groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life Progress.md",
+                "file": "Работа/Перенос в компоненты groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life Progress.md"
+                "file": "Работа/Перенос в компоненты groups.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "90aa1768aad96259",
   "lastOpenFiles": [
+    "Life Progress.md",
     "Работа/Перенос в компоненты groups.md",
     "2024-06-18.md",
-    "Life Progress.md",
     "Countdown.md",
     "Домашняя страница.md",
     "Без названия.md",

@@ -14,7 +14,7 @@
 	- [ ] i18 inst_code_libraries
 - [ ] inst_web_modes / Типы страниц
 	- [ ] i18 inst_web_modes
-- [ ] inst_server_agents / Агенты сервера
+- [x] inst_server_agents / Агенты сервера
 	- [ ] i18 inst_server_agents
 - [ ] inst_statistics / Показатели
 	- [ ] i18 inst_statistics
