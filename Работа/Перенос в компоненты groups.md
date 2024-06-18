@@ -28,11 +28,11 @@
 	- [ ] i18 inst_system_event_handlers
 - [ ] inst_system_events / Системные события
 	- [ ] i18 inst_system_events
-- [ ] inst_notifications / Встроенные уведомления
+- [x] inst_notifications / Встроенные уведомления
 	- [ ] i18 inst_notifications
-- [ ] inst_notification_templates / Встроенные шаблоны уведомлений
+- [x] inst_notification_templates / Встроенные шаблоны уведомлений
 	- [ ] i18 inst_notification_templates
 - [ ] object_types / xmd
 	- [ ] wtv_common.xml
-- [ ] inst_pack_object_claim.xml
+- [x] inst_pack_object_claim.xml
 	- [ ] i18 inst_pack_object_claim
