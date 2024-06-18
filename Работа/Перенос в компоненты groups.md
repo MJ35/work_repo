@@ -26,7 +26,7 @@
 	- [ ] i18 inst_operations
 - [x] inst_system_event_handlers / Обработчик системных событий
 	- [ ] i18 inst_system_event_handlers
-- [ ] inst_system_events / Системные события
+- [x] inst_system_events / Системные события
 	- [ ] i18 inst_system_events
 - [x] inst_notifications / Встроенные уведомления
 	- [ ] i18 inst_notifications
