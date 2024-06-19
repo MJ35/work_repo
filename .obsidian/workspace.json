@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Работа/Перенос в компоненты groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Работа/Перенос в компоненты groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Работа/Перенос в компоненты groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "Работа/Перенос в компоненты groups.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "ab51b1f6a2423705",
   "lastOpenFiles": [
+    "Без названия.md",
     "Домашняя страница.md",
     "Округление StrRealFixed.md",
-    "Без названия.md",
     "Развернуть локальный стенд.md",
     "Словарь терминов и выражений.md",
     "Установка пакета или демо-данных.md",
