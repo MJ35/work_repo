@@ -14,7 +14,7 @@
 	- [ ] i18 inst_code_libraries
 - [ ] inst_web_modes / Типы страниц
 	- [ ] i18 inst_web_modes
-- [x] inst_server_agents / Агенты сервера
+- [ ] inst_server_agents / Агенты сервера
 	- [ ] i18 inst_server_agents
 - [ ] inst_statistics / Показатели
 	- [ ] i18 inst_statistics
@@ -24,13 +24,13 @@
 	- [ ] i18 inst_web_rules
 - [ ] inst_operations / Операции
 	- [ ] i18 inst_operations
-- [x] inst_system_event_handlers / Обработчик системных событий
+- [ ] inst_system_event_handlers / Обработчик системных событий
 	- [ ] i18 inst_system_event_handlers
-- [x] inst_system_events / Системные события
+- [ ] inst_system_events / Системные события
 	- [ ] i18 inst_system_events
-- [x] inst_notifications / Встроенные уведомления
+- [ ] inst_notifications / Встроенные уведомления
 	- [ ] i18 inst_notifications
-- [x] inst_notification_templates / Встроенные шаблоны уведомлений
+- [ ] inst_notification_templates / Встроенные шаблоны уведомлений
 	- [ ] i18 inst_notification_templates
 - [ ] object_types / xmd
 	- [ ] wtv_common.xml
