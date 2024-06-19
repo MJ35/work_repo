@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Websoft/Примеры регулярных выражений.md",
+                "file": "Life Progress.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Websoft/Примеры регулярных выражений.md",
+                "file": "Life Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Websoft/Примеры регулярных выражений.md",
+                "file": "Life Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Websoft/Примеры регулярных выражений.md"
+                "file": "Life Progress.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "ab51b1f6a2423705",
   "lastOpenFiles": [
+    "Работа/Websoft/Примеры регулярных выражений.md",
     "Работа/Перенос в компоненты groups.md",
     "Life Progress.md",
     "2024-06-18.md",
@@ -180,7 +181,6 @@
     "Без названия 1.md",
     "111222.md",
     "Работа/Websoft/Логирование и debug.md",
-    "Работа/Websoft/Примеры регулярных выражений.md",
     "Работа/Websoft/Регулярные выражения. Шпаргалка.md",
     "Книги/Логика/Логика А.М.Руденко.md",
     "Книги/Логика/История становления и развития логики.md",
