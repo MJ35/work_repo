@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
-                "mode": "source",
+                "file": "Работа/Websoft/Примеры регулярных выражений.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
+                "file": "Работа/Websoft/Примеры регулярных выражений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
+                "file": "Работа/Websoft/Примеры регулярных выражений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md"
+                "file": "Работа/Websoft/Примеры регулярных выражений.md"
               }
             }
           },
