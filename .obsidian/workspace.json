@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Websoft/Platform/test.md",
+                "file": "Test 2/Демо тест 2 - изменение.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Websoft/Platform/test.md",
+                "file": "Test 2/Демо тест 2 - изменение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Websoft/Platform/test.md",
+                "file": "Test 2/Демо тест 2 - изменение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Websoft/Platform/test.md"
+                "file": "Test 2/Демо тест 2 - изменение.md"
               }
             }
           },
@@ -165,10 +165,18 @@
   },
   "active": "be47689da1f87f62",
   "lastOpenFiles": [
-    "Работа/Перенос в компоненты groups.md",
-    "Работа/Websoft/Platform/test.md",
-    "templates/Книга.md",
+    "2024-06-18.md",
+    "Без названия.md",
+    "Домашняя страница.md",
+    "Округление StrRealFixed.md",
+    "Отключение треугольника сортировки в таблице XMS.md",
+    "Словарь терминов и выражений.md",
+    "Установка пакета или демо-данных.md",
+    "Countdown.md",
     "pages/contents.md",
+    "templates/Книга.md",
+    "Работа/Websoft/Platform/test.md",
+    "Работа/Перенос в компоненты groups.md",
     "Автомобиль/Двигатель/Замена ГРМ с роликами, помпы и замена подшипников генератора.md",
     "Автомобиль/Ходовка/Размер дисков.md",
     "Книги/Логика/Значение логики в жизни человека.md",
@@ -179,17 +187,9 @@
     "Работа/Websoft/Примеры регулярных выражений.md",
     "Работа/Websoft/Логирование и debug.md",
     "Работа/Websoft/Platform",
-    "Округление StrRealFixed.md",
-    "Домашняя страница.md",
-    "Без названия.md",
-    "Countdown.md",
     "Life Progress.md",
     "Pasted image 20240531125110.png",
     "Развернуть локальный стенд.md",
-    "Словарь терминов и выражений.md",
-    "Установка пакета или демо-данных.md",
-    "2024-06-18.md",
-    "Отключение треугольника сортировки в таблице XMS.md",
     "new zam.md",
     "Без названия 1.md",
     "111222.md",
