@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Websoft/Platform/Без названия.md",
+                "file": "Работа/Websoft/Platform/Установка.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Websoft/Platform/Без названия.md",
+                "file": "Работа/Websoft/Platform/Установка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Websoft/Platform/Без названия.md",
+                "file": "Работа/Websoft/Platform/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Websoft/Platform/Без названия.md"
+                "file": "Работа/Websoft/Platform/Установка.md"
               }
             }
           },
@@ -166,7 +166,7 @@
   "active": "be47689da1f87f62",
   "lastOpenFiles": [
     "Работа/Websoft/Логирование и debug.md",
-    "Работа/Websoft/Platform/Без названия.md",
+    "Работа/Websoft/Platform/Установка.md",
     "Работа/Websoft/Примеры регулярных выражений.md",
     "Работа/Перенос в компоненты groups.md",
     "Работа/Websoft/Platform",
