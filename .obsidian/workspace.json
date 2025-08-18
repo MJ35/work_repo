@@ -11,8 +11,12 @@
             "id": "be47689da1f87f62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Работа/Websoft/Platform/Без названия.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Работа/Websoft/Platform/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Работа/Websoft/Platform/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Работа/Websoft/Platform/Без названия.md"
+              }
             }
           },
           {
@@ -155,17 +163,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "338cb608c401c372",
+  "active": "be47689da1f87f62",
   "lastOpenFiles": [
+    "Работа/Websoft/Логирование и debug.md",
+    "Работа/Websoft/Platform/Без названия.md",
+    "Работа/Websoft/Примеры регулярных выражений.md",
+    "Работа/Перенос в компоненты groups.md",
+    "Работа/Websoft/Platform",
     "Округление StrRealFixed.md",
     "Домашняя страница.md",
     "Без названия.md",
     "Countdown.md",
     "Life Progress.md",
     "Pasted image 20240531125110.png",
-    "Работа/Websoft/Примеры регулярных выражений.md",
-    "Работа/Websoft/Логирование и debug.md",
-    "Работа/Перенос в компоненты groups.md",
     "Развернуть локальный стенд.md",
     "Словарь терминов и выражений.md",
     "Установка пакета или демо-данных.md",
@@ -194,7 +204,6 @@
     "logseq/config.edn",
     "logseq",
     "Работа/Websoft",
-    "Книги/Логика",
     "Без названия.canvas",
     "Автомобиль/Двигатель/Pasted image 20240502225829.png",
     "Автомобиль/Двигатель/Pasted image 20240502225616.png",
