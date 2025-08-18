@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "Работа/Websoft/Примеры регулярных выражений.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "Работа/Websoft/Примеры регулярных выражений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Домашняя страница.md",
+                "file": "Работа/Websoft/Примеры регулярных выражений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Домашняя страница.md"
+                "file": "Работа/Websoft/Примеры регулярных выражений.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "6fcec4e5b2ed7006",
   "lastOpenFiles": [
+    "Работа/Websoft/Логирование и debug.md",
+    "Домашняя страница.md",
     "Работа/Перенос в компоненты groups.md",
     "Без названия.md",
-    "Домашняя страница.md",
     "Округление StrRealFixed.md",
     "Развернуть локальный стенд.md",
     "Словарь терминов и выражений.md",
@@ -181,7 +182,6 @@
     "new zam.md",
     "Без названия 1.md",
     "111222.md",
-    "Работа/Websoft/Логирование и debug.md",
     "Работа/Websoft/Регулярные выражения. Шпаргалка.md",
     "Книги/Логика/Логика А.М.Руденко.md",
     "Книги/Логика/История становления и развития логики.md",
