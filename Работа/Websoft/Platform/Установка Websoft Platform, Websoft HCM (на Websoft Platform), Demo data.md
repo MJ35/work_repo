@@ -28,4 +28,5 @@ hcm (1.25.8.1), websoft.hcm.lms.sdo_mng (1.25.07.31), websoft.hcm.core_tests (1.
 xsh> wftget install  z:\Downloads\websoft.hcm_1.25.08.01.zip
 
 
-xsh> wftget install  F:\Downloads\websoft.hcm_1.25.08.01.zip
+ .
+
