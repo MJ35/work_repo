@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Websoft/Platform/Установка Websoft Platform, Websoft HCM (на Websoft Platform), Demo data.md",
+                "file": "templates/Книга.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Websoft/Platform/Установка Websoft Platform, Websoft HCM (на Websoft Platform), Demo data.md",
+                "file": "templates/Книга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Websoft/Platform/Установка Websoft Platform, Websoft HCM (на Websoft Platform), Demo data.md",
+                "file": "templates/Книга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Websoft/Platform/Установка Websoft Platform, Websoft HCM (на Websoft Platform), Demo data.md"
+                "file": "templates/Книга.md"
               }
             }
           },
@@ -165,8 +165,15 @@
   },
   "active": "be47689da1f87f62",
   "lastOpenFiles": [
-    "Работа/Websoft/Примеры регулярных выражений.md",
+    "pages/contents.md",
+    "Автомобиль/Двигатель/Замена ГРМ с роликами, помпы и замена подшипников генератора.md",
+    "Автомобиль/Ходовка/Размер дисков.md",
+    "Книги/Логика/Значение логики в жизни человека.md",
+    "Книги/Логика/История становления и развития логики.md",
+    "Книги/Логика/Логика А.М.Руденко.md",
+    "Книги/Без названия лрлол.md",
     "Работа/Websoft/Platform/Установка Websoft Platform, Websoft HCM (на Websoft Platform), Demo data.md",
+    "Работа/Websoft/Примеры регулярных выражений.md",
     "Работа/Websoft/Логирование и debug.md",
     "Работа/Перенос в компоненты groups.md",
     "Работа/Websoft/Platform",
@@ -185,15 +192,8 @@
     "Без названия 1.md",
     "111222.md",
     "Работа/Websoft/Регулярные выражения. Шпаргалка.md",
-    "Книги/Логика/Логика А.М.Руденко.md",
-    "Книги/Логика/История становления и развития логики.md",
-    "Книги/Логика/Значение логики в жизни человека.md",
     "Без названия",
     "Работа/Websoft/Регулярные выражения. Шпага.md",
-    "Словарь терминов и выражений/Бритва Оккамма.md",
-    "Книги/Без названия лрлол.md",
-    "Словарь терминов и выражений/Теоцентризм.md",
-    "Словарь терминов и выражений/Схоластика.md",
     "templates",
     "Книги/Логика/attachments/Pasted image 20240531200927.png",
     "Книги/Логика/attachments",
