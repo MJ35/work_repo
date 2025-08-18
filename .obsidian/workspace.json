@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a21e6057c773a84c",
+        "id": "b903a81649e9619e",
         "type": "tabs",
         "children": [
           {
-            "id": "6fcec4e5b2ed7006",
+            "id": "be47689da1f87f62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа/Websoft/Примеры регулярных выражений.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "48de7d3b65b3d124",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Websoft/Примеры регулярных выражений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Websoft/Примеры регулярных выражений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Работа/Websoft/Примеры регулярных выражений.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,22 +156,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6fcec4e5b2ed7006",
+  "active": "be47689da1f87f62",
   "lastOpenFiles": [
-    "Работа/Websoft/Логирование и debug.md",
-    "Домашняя страница.md",
-    "Работа/Перенос в компоненты groups.md",
-    "Без названия.md",
     "Округление StrRealFixed.md",
+    "Домашняя страница.md",
+    "Без названия.md",
+    "Countdown.md",
+    "Life Progress.md",
+    "Pasted image 20240531125110.png",
+    "Работа/Websoft/Примеры регулярных выражений.md",
+    "Работа/Websoft/Логирование и debug.md",
+    "Работа/Перенос в компоненты groups.md",
     "Развернуть локальный стенд.md",
     "Словарь терминов и выражений.md",
     "Установка пакета или демо-данных.md",
-    "Countdown.md",
-    "Life Progress.md",
-    "Работа/Websoft/Примеры регулярных выражений.md",
     "2024-06-18.md",
     "Отключение треугольника сортировки в таблице XMS.md",
-    "Pasted image 20240531125110.png",
     "new zam.md",
     "Без названия 1.md",
     "111222.md",
@@ -192,7 +185,6 @@
     "Книги/Без названия лрлол.md",
     "Словарь терминов и выражений/Теоцентризм.md",
     "Словарь терминов и выражений/Схоластика.md",
-    "templates/Книга.md",
     "templates",
     "Книги/Логика/attachments/Pasted image 20240531200927.png",
     "Книги/Логика/attachments",
