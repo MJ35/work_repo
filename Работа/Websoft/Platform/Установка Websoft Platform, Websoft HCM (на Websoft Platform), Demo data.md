@@ -1,4 +1,6 @@
-1.
+
+
+1. Websoft Platform
 Из https://clients.websoft.ru/downloads скачал:
 Websoft Platform
 Версия: 1.25.08.04
@@ -7,5 +9,6 @@ Websoft Platform
 
 Установил локально.
 
+2. Websoft HCM
+Из https://clients.websoft.ru/downloads скачал:
 
-2. 
