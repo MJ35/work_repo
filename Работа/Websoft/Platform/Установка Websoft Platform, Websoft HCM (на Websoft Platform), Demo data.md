@@ -28,5 +28,20 @@ hcm (1.25.8.1), websoft.hcm.lms.sdo_mng (1.25.07.31), websoft.hcm.core_tests (1.
 xsh> wftget install  z:\Downloads\websoft.hcm_1.25.08.01.zip
 
 
- .
+3. 3e2rewrf
+4. 
+Мой вариант (не доделал):
+wftget install I:\Downloads\websoft.demo_data_1.25.07.25.zip
+Потом удалил компонент:
+wftget disable websoft.demo_data
+{restart server}
+wftget remove websoft.demo_data
+
+
+Потом стал делать по Ваниной инструкции
+(https://github.com/Contentim/tasks_repo/blob/main/Демо-данные%20для%20платформы.md)
+
+wftget pkg-process websoft.demo_data *
+
+
 
