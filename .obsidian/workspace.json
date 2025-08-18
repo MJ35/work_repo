@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3729ab335cd0753c",
+        "id": "a21e6057c773a84c",
         "type": "tabs",
         "children": [
           {
-            "id": "ab51b1f6a2423705",
+            "id": "6fcec4e5b2ed7006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
+                "file": "Домашняя страница.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
+                "file": "Домашняя страница.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md",
+                "file": "Домашняя страница.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Перенос в компоненты groups.md"
+                "file": "Домашняя страница.md"
               }
             }
           },
@@ -163,8 +163,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ab51b1f6a2423705",
+  "active": "6fcec4e5b2ed7006",
   "lastOpenFiles": [
+    "Работа/Перенос в компоненты groups.md",
     "Без названия.md",
     "Домашняя страница.md",
     "Округление StrRealFixed.md",
@@ -174,7 +175,6 @@
     "Countdown.md",
     "Life Progress.md",
     "Работа/Websoft/Примеры регулярных выражений.md",
-    "Работа/Перенос в компоненты groups.md",
     "2024-06-18.md",
     "Отключение треугольника сортировки в таблице XMS.md",
     "Pasted image 20240531125110.png",
