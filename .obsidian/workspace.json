@@ -151,7 +151,8 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "338cb608c401c372",
