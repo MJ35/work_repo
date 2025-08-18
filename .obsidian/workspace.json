@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Книга.md",
+                "file": "Работа/Websoft/Platform/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Книга.md",
+                "file": "Работа/Websoft/Platform/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Книга.md",
+                "file": "Работа/Websoft/Platform/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Книга.md"
+                "file": "Работа/Websoft/Platform/test.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "be47689da1f87f62",
   "lastOpenFiles": [
+    "Работа/Перенос в компоненты groups.md",
+    "Работа/Websoft/Platform/test.md",
+    "templates/Книга.md",
     "pages/contents.md",
     "Автомобиль/Двигатель/Замена ГРМ с роликами, помпы и замена подшипников генератора.md",
     "Автомобиль/Ходовка/Размер дисков.md",
@@ -175,7 +178,6 @@
     "Работа/Websoft/Platform/Установка Websoft Platform, Websoft HCM (на Websoft Platform), Demo data.md",
     "Работа/Websoft/Примеры регулярных выражений.md",
     "Работа/Websoft/Логирование и debug.md",
-    "Работа/Перенос в компоненты groups.md",
     "Работа/Websoft/Platform",
     "Округление StrRealFixed.md",
     "Домашняя страница.md",
@@ -191,9 +193,7 @@
     "new zam.md",
     "Без названия 1.md",
     "111222.md",
-    "Работа/Websoft/Регулярные выражения. Шпаргалка.md",
     "Без названия",
-    "Работа/Websoft/Регулярные выражения. Шпага.md",
     "templates",
     "Книги/Логика/attachments/Pasted image 20240531200927.png",
     "Книги/Логика/attachments",
