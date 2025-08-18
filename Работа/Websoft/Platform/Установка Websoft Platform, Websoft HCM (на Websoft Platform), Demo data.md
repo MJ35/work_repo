@@ -25,12 +25,21 @@ hcm (1.25.8.1), websoft.hcm.lms.sdo_mng (1.25.07.31), websoft.hcm.core_tests (1.
 {websoft.hcm_1.25.08.01.zip}
 
 Установил:
-xsh> wftget install  z:\\Downloads\\websoft.hcm_1.25.08.01.zip
+xsh> wftget install  I:\\Downloads\\websoft.hcm_1.25.08.01.zip
 
 
-3. 3e2rewrf
+3. Demo data
+Из https://clients.websoft.ru/downloads скачал:
+Demo data
+Версия: 1.25.7.25
 
+**Описание:**  
+Пакет с демо-данными для решения Websoft HCM, предназначенные для установки на новую компонентную платформу Websoft Platform (альфа-версия).  
+  
+**Состав пакета:**  
+demo_data (1.25.7.25)
 
+{websoft.demo_data_1.25.07.25.zip}
 
 Мой вариант (не доделал):
 wftget install I:\Downloads\websoft.demo_data_1.25.07.25.zip
