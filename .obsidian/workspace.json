@@ -151,11 +151,10 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "homepage:Open homepage": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "be47689da1f87f62",
+  "active": "338cb608c401c372",
   "lastOpenFiles": [
     "Округление StrRealFixed.md",
     "Домашняя страница.md",
