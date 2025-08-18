@@ -25,7 +25,7 @@ hcm (1.25.8.1), websoft.hcm.lms.sdo_mng (1.25.07.31), websoft.hcm.core_tests (1.
 {websoft.hcm_1.25.08.01.zip}
 
 Установил:
-xsh> wftget install  I:\\Downloads\\websoft.hcm_1.25.08.01.zip
+xsh> wftget install  z:\\Downloads\\websoft.hcm_1.25.08.01.zip
 
 
 3. Demo data
@@ -42,7 +42,7 @@ demo_data (1.25.7.25)
 {websoft.demo_data_1.25.07.25.zip}
 
 Мой вариант (не доделал):
-wftget install I:\Downloads\websoft.demo_data_1.25.07.25.zip
+wftget install z:\\Downloads\\websoft.demo_data_1.25.07.25.zip
 Потом удалил компонент:
 wftget disable websoft.demo_data
 {restart server}
