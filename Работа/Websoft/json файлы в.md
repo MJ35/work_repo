@@ -1,5 +1,27 @@
 1.
+Максим Юрков сделал вот так в некий момент.
 
+Revision: 265a47015a85d5047622c9e036be31b7288dcc60
+Author: maksimyurkov <yurkov.maksim.sergeevich@gmail.com>
+Date: 04.04.2023 15:17:11
+Message:
+#20015 В файлах виден путь расположения папки у разработчика
+
+----
+Modified: WebSoftServer/wtv/libs/analytics_library.json
+Modified: WebSoftServer/wtv/libs/app_tests_library.json
+Modified: WebSoftServer/wtv/libs/course_player_library.json
+Modified: WebSoftServer/wtv/libs/poll_player_library.json
+Added: WebSoftSources/apps/analytics/build/change-lib-file.js
+Modified: WebSoftSources/apps/analytics/package.json
+Added: WebSoftSources/apps/courses/build/change-lib-file.js
+Modified: WebSoftSources/apps/courses/package.json
+Added: WebSoftSources/apps/polls/build/change-lib-file.js
+Modified: WebSoftSources/apps/polls/package.json
+Added: WebSoftSources/apps/tests/build/change-lib-file.js
+Modified: WebSoftSources/apps/tests/package.json
+
+Не для всех json файлов в 
 
 
 2.
