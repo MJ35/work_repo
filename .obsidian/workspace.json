@@ -25,12 +25,14 @@
             "id": "270d2e3cd5e45df3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Работа/Websoft/json файлы в.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "json файлы в"
             }
           }
         ],
@@ -107,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Работа/Websoft/json файлы в.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для json файлы в"
             }
           },
           {
@@ -125,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Работа/Websoft/json файлы в.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из json файлы в"
             }
           },
           {
@@ -153,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Работа/Websoft/json файлы в.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура json файлы в"
             }
           },
           {
@@ -201,6 +206,7 @@
   },
   "active": "270d2e3cd5e45df3",
   "lastOpenFiles": [
+    "Работа/Websoft/json файлы в.md",
     "Домашняя страница.md",
     "Test 2/Демо тест 2 - изменение.md",
     "2024-06-18.md",
@@ -228,7 +234,6 @@
     "Pasted image 20240531125110.png",
     "Развернуть локальный стенд.md",
     "new zam.md",
-    "Без названия 1.md",
     "Без названия",
     "templates",
     "Книги/Логика/attachments/Pasted image 20240531200927.png",
@@ -242,4 +247,7 @@
     "Работа/Websoft",
     "Без названия.canvas",
     "Автомобиль/Двигатель/Pasted image 20240502225829.png",
-    "Автомобиль/Двигатель/Pasted image 2024050
+    "Автомобиль/Двигатель/Pasted image 20240502225616.png",
+    "Pasted image 20240502225403.png"
+  ]
+}
