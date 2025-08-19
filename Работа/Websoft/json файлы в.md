@@ -1,5 +1,5 @@
 1.
-Максим Юрков сделал вот так в некий момент.
+Максим Юрков сделал вот так в некий момент:
 
 Revision: 265a47015a85d5047622c9e036be31b7288dcc60
 Author: maksimyurkov <yurkov.maksim.sergeevich@gmail.com>
@@ -21,7 +21,7 @@ Modified: WebSoftSources/apps/polls/package.json
 Added: WebSoftSources/apps/tests/build/change-lib-file.js
 Modified: WebSoftSources/apps/tests/package.json
 
-Не для всех json файлов в 
+Это было сделано не для всех имеющихся json файлов в каталоге WebSoftServer/wtv/libs/, а только для некоторых.
 
 
 2.
