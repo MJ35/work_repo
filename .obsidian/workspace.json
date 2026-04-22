@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Домашняя страница"
             }
+          },
+          {
+            "id": "208784129d0a53ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +203,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5293ddde73985e20",
+  "active": "208784129d0a53ec",
   "lastOpenFiles": [
-    "Работа/Websoft/json файлы в.md",
     "Домашняя страница.md",
+    "Работа/Websoft/json файлы в.md",
     "Test 2/Демо тест 2 - изменение.md",
     "2024-06-18.md",
     "Без названия.md",
